@@ -13,4 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MonikaGhadge25/LeetCode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/MonikaGhadge25/LeetCode/tree/master/0392-is-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/MonikaGhadge25/LeetCode/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/MonikaGhadge25/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
